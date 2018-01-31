@@ -1,4 +1,4 @@
-##本文为Git入门笔记##
+# 本文为Git入门笔记 #
 
 在此鸣谢廖雪峰老师的git 教程，让我轻松入门
 
@@ -6,7 +6,7 @@
 
 [学习 Git 好用的可视化网站](https://learngitbranching.js.org/?demo)
 
-##安装Git##
+## 安装Git ##
 
 git config 能够配置的东西很多
 
@@ -14,7 +14,7 @@ git config 能够配置的东西很多
 
 `git config --global user.email "email@example.com"`
     
-##常用命令##
+## 常用命令 ##
 
 `git add`是将文件 暂存
 
