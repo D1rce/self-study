@@ -4,8 +4,10 @@ $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
 
 git add  是将文件 暂存，默认的分支master
+git add -A命令：相当于对修改文件执行git add操作；对删除文件执行git rm;对本地新增文件执行git add。：
 git rm 我的文件
 git rm -r 我的文件夹 此处-r表示递归所有子目录，如果你要删除的，是空的文件夹，此处可以不用带上-r。
+git mv befname afname 改名
 git commit 是提交暂存
 git status 查看当前状态
 git log 查看 详细的log
