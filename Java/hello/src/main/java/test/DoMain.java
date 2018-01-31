@@ -1,4 +1,4 @@
-package study01.pkg.domain;
+package test;
 
 import java.lang.reflect.Field;
 
