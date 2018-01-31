@@ -1,4 +1,4 @@
-package study01.pkg.domain;
+package test;
 
 public class Main2 {
 
