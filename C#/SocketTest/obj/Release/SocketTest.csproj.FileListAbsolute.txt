@@ -1,0 +1,10 @@
+D:\daikin\20160603_3\Svr\SocketTest\bin\Release\SocketTest.exe
+D:\daikin\20160603_3\Svr\SocketTest\bin\Release\SocketTest.pdb
+D:\daikin\20160603_3\Svr\SocketTest\obj\Release\SocketTest.exe
+D:\daikin\20160603_3\Svr\SocketTest\obj\Release\SocketTest.pdb
+D:\daikin\20160603_3\Svr\SocketTest\obj\Release\SocketTest.csprojResolveAssemblyReference.cache
+E:\daikin\20160603_3\Svr\SocketTest\bin\Release\SocketTest.exe
+E:\daikin\20160603_3\Svr\SocketTest\bin\Release\SocketTest.pdb
+E:\daikin\20160603_3\Svr\SocketTest\obj\Release\SocketTest.csprojResolveAssemblyReference.cache
+E:\daikin\20160603_3\Svr\SocketTest\obj\Release\SocketTest.exe
+E:\daikin\20160603_3\Svr\SocketTest\obj\Release\SocketTest.pdb
