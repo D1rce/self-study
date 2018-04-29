@@ -26,7 +26,7 @@ git config 能够配置的东西很多
 
 `git mv befname afname`改名
 
-`git commit`是提交暂存
+`git commit -m "msg"`是提交暂存
 
 `git status`查看当前状态
 
